@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/projects/Patterns/4-Decorator/src/objects/Component.java</file>
+        <file>file:/C:/projects/Patterns/4-Decorator/src/objects/TextView.java</file>
+        <file>file:/C:/projects/Patterns/4-Decorator/src/objects/Window.java</file>
+        <file>file:/C:/projects/Patterns/4-Decorator/src/decorators/Decorator.java</file>
+        <file>file:/C:/projects/Patterns/4-Decorator/src/decorators/ColorDecorator.java</file>
+        <file>file:/C:/projects/Patterns/4-Decorator/src/decorators/BorderDecorator.java</file>
+        <file>file:/C:/projects/Patterns/4-Decorator/src/decorators/Start.java</file>
+        <file>file:/C:/projects/Patterns/4-Decorator/src/objects/Button.java</file>
+    </open-files>
+</project-private>
